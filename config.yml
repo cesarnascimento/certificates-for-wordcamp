@@ -5,7 +5,7 @@ event:
   duration: "8 hours"
 site:
   lang: "en"
-  title: "Certificates for WordCamp São Paulo 2016"
+  title: "Certificados"
   logo: "static/images/logo.png"
   index:
     message: "Instructions here"
